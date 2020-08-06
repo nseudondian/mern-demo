@@ -1,0 +1,8 @@
+POST http://localhost:4000/api/routes/signup 
+Content-Type: application/json
+
+{
+    "username" : "learner",
+    "email" : "learner@mail.com",
+    "password" : "learnerlearning"
+}
